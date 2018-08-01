@@ -1,7 +1,8 @@
-# ES6 Karma Jasmine Webpack Istanbul Boilerplate
+# Testing Choices.js with existing select elements
 
 Boilerplate for building a client-based JavaScript library in ES6 using the following components:
 
+* [Choices.js](https://github.com/jshjohnson/Choices)
 * [Babel](https://babeljs.io/)
 * [Webpack 4](https://webpack.github.io/)
 * [Jasmine](http://jasmine.github.io/)
